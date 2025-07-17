@@ -60,3 +60,11 @@ If you're running the script on a local computer or using a tool like Thonny, ma
 ```bash
 export ADAFRUIT_IO_KEY="your-adafruit-aio-key"
 ```
+**Windows (CMD):**
+```bash
+set ADAFRUIT_IO_KEY=your-adafruit-aio-key
+```
+**Windows (PowerShell):**
+```bash
+$env:ADAFRUIT_IO_KEY = "your-adafruit-aio-key"
+```
